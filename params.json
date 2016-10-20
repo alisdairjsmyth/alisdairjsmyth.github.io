@@ -1,0 +1,6 @@
+{
+  "name": "alisdairjsmyth",
+  "tagline": "",
+  "body": "### My Repos\r\n* [node-red-contrib-blindcontroller](https://github.com/alisdairjsmyth/node-red-contrib-blindcontroller) - Node-RED node that determines blind position based on the position of the sun and climatic conditions\r\n* [node-red-contrib-sunpos](https://github.com/alisdairjsmyth/node-red-contrib-sunpos) - Node-RED node that emits the position of the sun\r\n* [node-red-contrib-qmotion](https://github.com/alisdairjsmyth/node-red-contrib-qmotion) - Node-RED node to control QMotion blinds using a QSync device\r\n* [node-red-contrib-lifx-api](https://github.com/alisdairjsmyth/node-red-contrib-lifx-api) - Collection of Node-RED nodes to control LIFX globes using the HTTP Remote Control API",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
